@@ -1,0 +1,23 @@
+body {
+	width: 45%;
+	margin: auto;
+	font-family: "Montserrat", sans-serif;
+	}
+p {
+	font-size: 17px;
+	line-height: 1.7;
+}
+.todos {
+	width: 100%;
+	justify-content: space-between;
+	display: inline-flex;
+}
+
+.lista {
+	list-style-type: none;
+}
+
+h1 {
+	text-align: center;
+	margin: 60px 0px auto;
+}
