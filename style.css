@@ -1,7 +1,9 @@
 body {
-	width: 45%;
+	max-width: 650px;
 	margin: auto;
-	font-family: "Montserrat", sans-serif;
+	padding: 0px 60px;
+	font-family: "Lora", serif;
+	background-color: #F3F4E5;
 	}
 p {
 	font-size: 17px;
